@@ -1,12 +1,21 @@
+|![BYLICKILABS](https://img.shields.io/badge/Protected%20by-BYLICKILABS-14f1ff?style=for-the-badge) |
+|---|
+
+|![protect](https://github.com/user-attachments/assets/a6701c1e-1b3f-4cfc-8508-c90a3964aff3)|
+|---|
+
+| ![Platform: Web](https://img.shields.io/badge/platform-Web-blue?style=for-the-badge&logo=html5) | ![Language: JavaScript](https://img.shields.io/badge/JavaScript-Protect-yellow?logo=javascript&logoColor=white&style=for-the-badge) | ![Opera GX Tested](https://img.shields.io/badge/Opera%20GX-Tested-red?logo=opera&logoColor=white&style=for-the-badge) | ![License: All Rights Reserved](https://img.shields.io/badge/license-All%20Rights%20Reserved-important?style=for-the-badge) | ![Client-Side](https://img.shields.io/badge/Client--Side-100%25-success?style=for-the-badge) |
+|---|---|---|---|---|
+
+| ![No Open Source](https://img.shields.io/badge/open%20source-no-red?style=for-the-badge) | ![Chrome](https://img.shields.io/badge/Chrome-✔-green?logo=google-chrome&logoColor=white&style=for-the-badge) | ![Firefox](https://img.shields.io/badge/Firefox-✔-orange?logo=firefox-browser&logoColor=white&style=for-the-badge) | ![Edge](https://img.shields.io/badge/Edge-✔-0078d7?logo=microsoft-edge&logoColor=white&style=for-the-badge) |
+|---|---|---|---|
+
+---
+
 ## Inhaltsverzeichnis
 
 - [DE](#de)
 - [EN](#en)
-
-<br>
-
-|![protect](https://github.com/user-attachments/assets/a6701c1e-1b3f-4cfc-8508-c90a3964aff3)|
-|---|
 
 <br>
 
