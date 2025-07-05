@@ -40,6 +40,17 @@ Fügen Sie folgenden Code **direkt unterhalb des `<body>`-Tags** Ihrer `index.ht
 function disableselect(_0x2929x2){return false;}function reEnable(){return true;}document[_0x1a3b[1]]=new Function(_0x1a3b[0]);if(window[_0x1a3b[4]]){document[_0x1a3b[2]]=disableselect;document[_0x1a3b[3]]=reEnable;}document.addEventListener
 ('contextmenu',function(e){e.preventDefault();});})();
 </script>
+
+
+<script>
+(function(){
+  document.addEventListener('\x6b\x65\x79\x64\x6f\x77\x6e',function(e){
+    if((e['\x63\x74\x72\x6c\x4b\x65\x79']||e['\x6d\x65\x74\x61\x4b\x65\x79'])&&e['\x6b\x65\x79']['\x74\x6f\x4c\x6f\x77\x65\x72\x43\x61\x73\x65']()=== '\x73'){
+      e['\x70\x72\x65\x76\x65\x6e\x74\x44\x65\x66\x61\x75\x6c\x74']();
+    }
+  });
+})();
+</script>
 ```
 
 - **Effekt:**  
@@ -106,9 +117,20 @@ Insert the following code **directly below the `<body>` tag** of your `index.htm
 
 ```yarn
 <script>
-(function(){var _0x1a3b=["\x72\x65\x74\x75\x72\x6E\x20\x66\x61\x6C\x73\x65","\x6F\x6E\x73\x65\x6C\x65\x63\x74\x73\x74\x61\x72\x7 4","\x6F\x6E\x6D\x6F\x75\x73\x65\x64\x6F\x77\x6E","\x6F\x6E\x63\x6C\x69\x63\x6B","\x73\x69\x64\x65\x62\x61\x72"];
+(function(){var _0x1a3b=["\x72\x65\x74\x75\x72\x6E\x20\x66\x61\x6C\x73\x65","\x6F\x6E\x73\x65\x6C\x65\x63\x74\x73\x74\x61\x72\x74","\x6F\x6E\x6D\x6F\x75\x73\x65\x64\x6F\x77\x6E","\x6F\x6E\x63\x6C\x69\x63\x6B","\x73\x69\x64\x65\x62\x61\x72"];
 function disableselect(_0x2929x2){return false;}function reEnable(){return true;}document[_0x1a3b[1]]=new Function(_0x1a3b[0]);if(window[_0x1a3b[4]]){document[_0x1a3b[2]]=disableselect;document[_0x1a3b[3]]=reEnable;}document.addEventListener
 ('contextmenu',function(e){e.preventDefault();});})();
+</script>
+
+
+<script>
+(function(){
+  document.addEventListener('\x6b\x65\x79\x64\x6f\x77\x6e',function(e){
+    if((e['\x63\x74\x72\x6c\x4b\x65\x79']||e['\x6d\x65\x74\x61\x4b\x65\x79'])&&e['\x6b\x65\x79']['\x74\x6f\x4c\x6f\x77\x65\x72\x43\x61\x73\x65']()=== '\x73'){
+      e['\x70\x72\x65\x76\x65\x6e\x74\x44\x65\x66\x61\x75\x6c\x74']();
+    }
+  });
+})();
 </script>
 ```
 
