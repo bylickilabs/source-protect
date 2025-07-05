@@ -23,7 +23,7 @@ das Markieren von Text sowie das Auslesen und Manipulieren des Quellcodes durch 
 
 ## 1. Copy/Paste- und Auswahl-Schutz (Inline Script)
 
-Fügen Sie folgenden JavaScript-Code **direkt unterhalb des `<body>`-Tags** Ihrer `index.html` oder `index.php` ein:
+Fügen Sie folgenden Code **direkt unterhalb des `<body>`-Tags** Ihrer `index.html` oder `index.php` ein:
 
 ```yarn
 <script>
@@ -93,7 +93,7 @@ This repository contains two effective protection mechanisms to secure your HTML
 
 ## 1. Copy/Paste and Selection Protection (Inline Script)
 
-Insert the following JavaScript code **directly below the `<body>` tag** of your `index.html` or `index.php`:
+Insert the following code **directly below the `<body>` tag** of your `index.html` or `index.php`:
 
 ```yarn
 <script>
