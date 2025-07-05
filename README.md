@@ -1,8 +1,10 @@
 ## Inhaltsverzeichnis
 
+|![protect](https://github.com/user-attachments/assets/a6701c1e-1b3f-4cfc-8508-c90a3964aff3)|
+|---|
+
 - [DE](#de)
 - [EN](#en)
-- [LICENSE](#license)
 
 <br>
 
